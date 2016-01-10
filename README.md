@@ -15,4 +15,5 @@ myself and my friend Daniella Cho for the UC Berkeley CS61A course;
 therefore, staff files like tests and GUI are not included.
 
 ![screenshot](https://cloud.githubusercontent.com/assets/12720744/12224548/a76c2944-b7a8-11e5-8928-7e8644757699.png)
+
 GUI/images by UC Berkeley CS61A staff
