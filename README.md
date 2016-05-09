@@ -11,9 +11,9 @@ Utils.py includes utility functions, and data abstractions are in
 abstractions.py.
 
 This file is written in Python. This project was a group effort between 
-myself and my friend Daniella Cho for the UC Berkeley CS61A course; 
+myself and my friend Daniella Cho for a UC Berkeley CS course; 
 therefore, staff files like tests and GUI are not included.
 
 ![screenshot](https://cloud.githubusercontent.com/assets/12720744/12224548/a76c2944-b7a8-11e5-8928-7e8644757699.png)
 
-GUI/images by UC Berkeley CS61A staff
+GUI/images by UC Berkeley CS staff
