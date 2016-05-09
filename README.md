@@ -2,7 +2,7 @@
 
 Synopsis
 -------------
-Maps realies on machine learning to create a visualization of restaurant
+Maps relies on machine learning to create a visualization of restaurant
 ratings.  We incorporated the k-means algorithm to create data clusters 
 for later grouping.  We also used least-squares linear regression to 
 predict ratings based on factors like price.  The data comes from the
